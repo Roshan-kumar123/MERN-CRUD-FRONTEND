@@ -129,3 +129,8 @@ form.signup, form.login {
   background: #fff;
   border-radius: 4px;
 }
+
+.btn-disabled {
+  opacity: 0.5; /* Adjust opacity as needed */
+  cursor: not-allowed; /* Show not-allowed cursor */
+}
